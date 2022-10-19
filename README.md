@@ -1,1 +1,1 @@
-# mytraning
+# mytraining
